@@ -1,6 +1,6 @@
 using System;
 
-namespace LibUser
+namespace LibUserCalculation
 {
     public class ArrayMismatchException : Exception
     {
