@@ -1,3 +1,4 @@
+using LibUserCalculation;
 namespace CalculationsTest
 {
     [TestClass]
